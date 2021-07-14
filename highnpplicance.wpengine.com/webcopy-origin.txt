@@ -1,0 +1,200 @@
+Uri: https://highnpplicance.wpengine.com/
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\index-1.htm
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\xfn\11-1.html
+Content Type: text/html
+
+Uri: https://highnpplicance.wpengine.com/feed/
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\feed\index.htm-1.rss
+Content Type: application/rss+xml
+
+Uri: https://highnpplicance.wpengine.com/comments/feed/
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\comments\feed\index.htm-1.rss
+Content Type: application/rss+xml
+
+Uri: https://highnpplicance.wpengine.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://highnpplicance.wpengine.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.7.2
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-includes\css\dist\block-library\theme.min-1.css
+Content Type: text/css
+
+Uri: https://highnpplicance.wpengine.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.1
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-content\plugins\contact-form-7\includes\css\styles-1.css
+Content Type: text/css
+
+Uri: https://highnpplicance.wpengine.com/wp-content/themes/highnpplicance/assets/css/style.css?ver=1.2
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-content\themes\highnpplicance\assets\css\style.css
+Content Type: text/css
+
+Uri: https://highnpplicance.wpengine.com/wp-content/themes/highnpplicance/assets/css/aos.css?ver=1.2
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-content\themes\highnpplicance\assets\css\aos-1.css
+Content Type: text/css
+
+Uri: https://highnpplicance.wpengine.com/wp-content/themes/highnpplicance/assets/css/hover.css?ver=1.2
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-content\themes\highnpplicance\assets\css\hover-1.css
+Content Type: text/css
+
+Uri: https://highnpplicance.wpengine.com/wp-content/plugins/a3-lazy-load/assets/css/jquery.lazyloadxt.spinner.css?ver=5.7.2
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-content\plugins\a3-lazy-load\assets\css\jquery.lazyloadxt.spinner-1.css
+Content Type: text/css
+
+Uri: https://highnpplicance.wpengine.com/wp-content/uploads/sass/a3_lazy_load.min.css?ver=1624220028
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-content\uploads\sass\a3_lazy_load.min-1.css
+Content Type: text/css
+
+Uri: https://highnpplicance.wpengine.com/wp-json/
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-json\index.htm-1.json
+Content Type: application/json
+
+Uri: https://highnpplicance.wpengine.com/wp-json/wp/v2/pages/8
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-json\wp\v2\pages\8.json
+Content Type: application/json
+
+Uri: https://highnpplicance.wpengine.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\xmlrpc.php-1.xml
+Content Type: text/xml
+
+Uri: https://highnpplicance.wpengine.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-includes\wlwmanifest-1.xml
+Content Type: text/xml
+
+Uri: https://highnpplicance.wpengine.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhighnpplicance.wpengine.com%2F
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://highnpplicance.wpengine.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhighnpplicance.wpengine.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://highnpplicance.wpengine.com/wp-content/uploads/2021/06/favicon.png
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-content\uploads\2021\06\favicon-1.png
+Content Type: image/png
+
+Uri: https://highnpplicance.wpengine.com/contact-us/
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://highnpplicance.wpengine.com/about-us/
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://highnpplicance.wpengine.com/appliance-repairs/
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\appliance-repairs\index.htm
+Content Type: text/html
+
+Uri: https://highnpplicance.wpengine.com/installations/
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\installations\index-1.htm
+Content Type: text/html
+
+Uri: https://clienthub.getjobber.com/client_hubs/ee1b370f-4e90-4d6c-9a26-9c85357a866e/login/new?source=share_login
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\client_hubs\ee1b370f-4e90-4d6c-9a26-9c85357a866e\login\new-1.html
+Content Type: text/html
+
+Uri: https://www.google.com/maps/place/366+N+Broadway+%23+410,+Jericho,+NY+11753,+USA/@40.7818592,-73.5350045,17z/data=!3m1!4b1!4m5!3m4!1s0x89c28116f8ca76d1:0x7507aaa05ea7289c!8m2!3d40.7818592!4d-73.5328158
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\maps\place\366 N Broadway # 410, Jericho, NY 11753, USA\@40.7818592,-73.5350045,17z\data=!3m1!4b1!4m5!3m4!1s0x89c28116f8ca76d10x7507aaa05ea7289c!8m2!3d40.7818592!4d-73.5328158-1.html
+Content Type: text/html
+
+Uri: https://highnpplicance.wpengine.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://highnpplicance.wpengine.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-includes\js\jquery\jquery-migrate.min-1.js
+Content Type: application/javascript
+
+Uri: https://highnpplicance.wpengine.com/wp-content/uploads/2021/06/admin-logo.png
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-content\uploads\2021\06\admin-logo-1.png
+Content Type: image/png
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\index-2.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\css2.css
+Content Type: text/css
+
+Uri: https://highnpplicance.wpengine.com/wp-content/themes/highnpplicance/images/service-arrow.png
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-content\themes\highnpplicance\images\service-arrow.png
+Content Type: image/png
+
+Uri: https://highnpplicance.wpengine.com/wp-content/themes/highnpplicance/images/service-blue-arrow.png
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-content\themes\highnpplicance\images\service-blue-arrow.png
+Content Type: image/png
+
+Uri: https://highnpplicance.wpengine.com/wp-content/themes/highnpplicance/images/address.png
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-content\themes\highnpplicance\images\address.png
+Content Type: image/png
+
+Uri: https://highnpplicance.wpengine.com/wp-content/themes/highnpplicance/images/hours.png
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-content\themes\highnpplicance\images\hours.png
+Content Type: image/png
+
+Uri: https://highnpplicance.wpengine.com/wp-content/themes/highnpplicance/images/phone.png
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-content\themes\highnpplicance\images\phone.png
+Content Type: image/png
+
+Uri: https://highnpplicance.wpengine.com/wp-content/plugins/a3-lazy-load/assets/css/loading.gif
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-content\plugins\a3-lazy-load\assets\css\loading.gif
+Content Type: image/gif
+
+Uri: https://highnpplicance.wpengine.com/wp-content/themes/highnpplicance/assets/css/inner-styles.css?ver=1.2
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-content\themes\highnpplicance\assets\css\inner-styles-1.css
+Content Type: text/css
+
+Uri: https://highnpplicance.wpengine.com/wp-json/wp/v2/pages/4300
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-json\wp\v2\pages\4300.json
+Content Type: application/json
+
+Uri: https://highnpplicance.wpengine.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhighnpplicance.wpengine.com%2Fcontact-us%2F
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://highnpplicance.wpengine.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhighnpplicance.wpengine.com%2Fcontact-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://highnpplicance.wpengine.com/wp-json/wp/v2/pages/6179
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-json\wp\v2\pages\6179.json
+Content Type: application/json
+
+Uri: https://highnpplicance.wpengine.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhighnpplicance.wpengine.com%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://highnpplicance.wpengine.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhighnpplicance.wpengine.com%2Fabout-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://highnpplicance.wpengine.com/wp-json/wp/v2/pages/12827
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-json\wp\v2\pages\12827.json
+Content Type: application/json
+
+Uri: https://highnpplicance.wpengine.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhighnpplicance.wpengine.com%2Fappliance-repairs%2F
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://highnpplicance.wpengine.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhighnpplicance.wpengine.com%2Fappliance-repairs%2F&format=xml
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://highnpplicance.wpengine.com/wp-json/wp/v2/pages/12828
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-json\wp\v2\pages\12828-1.json
+Content Type: application/json
+
+Uri: https://highnpplicance.wpengine.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhighnpplicance.wpengine.com%2Finstallations%2F
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://highnpplicance.wpengine.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhighnpplicance.wpengine.com%2Finstallations%2F&format=xml
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://highnpplicance.wpengine.com/wp-content/themes/highnpplicance/images/service-include-arrow.png
+File Name: C:\Downloaded Web Sites\highnpplicance.wpengine.com\wp-content\themes\highnpplicance\images\service-include-arrow.png
+Content Type: image/png
+
